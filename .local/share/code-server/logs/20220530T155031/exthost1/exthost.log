@@ -1,0 +1,16 @@
+[2022-05-30 15:50:37.083] [exthost] [info] Extension host with pid 83 started
+[2022-05-30 15:50:37.085] [exthost] [error] Error: EEXIST: file already exists, open '/home/dluman/.local/share/code-server/User/workspaceStorage/-3baf07dc/vscode.lock'
+[2022-05-30 15:50:37.087] [exthost] [info] Lock '/home/dluman/.local/share/code-server/User/workspaceStorage/-3baf07dc/vscode.lock': Lock acquired.
+[2022-05-30 15:50:37.424] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-30 15:50:37.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-30 15:50:37.435] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-30 15:50:37.524] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-30 15:50:37.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-30 15:50:38.217] [exthost] [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.commandsToLog', provide the URI of a resource or 'null' for any resource.
+[2022-05-30 15:50:38.233] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 15:50:38.254] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 15:50:38.259] [exthost] [info] Eager extensions activated
+[2022-05-30 15:50:38.346] [exthost] [warning] [vscode.emmet] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'emmet.includeLanguages', provide the URI of a resource or 'null' for any resource.
+[2022-05-30 15:50:39.435] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-05-30 15:50:39.435] [exthost] [info] Lock '/home/dluman/.local/share/code-server/User/workspaceStorage/-3baf07dc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-05-30 15:50:39.442] [exthost] [info] Extension host with pid 83 exiting with code 0

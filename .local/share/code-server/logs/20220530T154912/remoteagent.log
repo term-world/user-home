@@ -1,0 +1,10 @@
+[2022-05-30 15:49:12.908] [remoteagent] [info] 
+
+
+
+
+[2022-05-30 15:49:12.908] [remoteagent] [info] Extension host agent started.
+[2022-05-30 15:49:14.999] [remoteagent] [info] [172.17.0.1][c0cdb67b][ManagementConnection] New connection established.
+[2022-05-30 15:49:17.015] [remoteagent] [info] [172.17.0.1][2a53e93e][ExtensionHostConnection] New connection established.
+[2022-05-30 15:49:17.025] [remoteagent] [info] [172.17.0.1][2a53e93e][ExtensionHostConnection] <83> Launched Extension Host Process.
+[2022-05-30 15:49:21.112] [remoteagent] [info] [172.17.0.1][c0cdb67b][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
