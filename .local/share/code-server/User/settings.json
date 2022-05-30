@@ -1,3 +1,5 @@
 {
     "workbench.colorTheme": "Tomorrow Night Blue",
+    "security.workspace.trust.banner": "never",
+    "security.workspace.trust.untrustedFiles": "open",
 }
