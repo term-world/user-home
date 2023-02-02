@@ -1,3 +1,7 @@
 {
-    "editor.tabSize": 4
+    "editor.tabSize": 4,
+    "workbench.colorTheme": "term-world",
+    "workbench.editorAssociations": {
+        "*.md": "vscode.markdown.preview.editor"
+    }
 }
