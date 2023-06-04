@@ -1,0 +1,3 @@
+#!/bin/bash
+WALLET_ADDR=$(python -c "from chompchainwallet import Wallet; w = Wallet(); print(w.address)")
+git notes add -m "Wallet-address: $WALLET_ADDR"
